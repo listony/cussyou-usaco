@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1248596467 source:d:\programs\acm\subset\subset.cpp
+	<fstream>
+	<list>
+

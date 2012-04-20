@@ -1,0 +1,1 @@
+d:\MinGW\bin\g++.exe      CMakeFiles\testMain.exe.dir\sort3.obj  -o testMain.exe.exe -Wl,--out-implib,libtestMain.exe.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="calfflac\calfflac.cbp" />
+		<Project filename="calfflac2\calfflac2.cbp" />
+		<Project filename="packrec\packrec.cbp" />
+		<Project filename="castle\castle.cbp" />
+		<Project filename="subset\subset.cbp" active="1" />
+	</Workspace>
+</CodeBlocks_workspace_file>

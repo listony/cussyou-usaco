@@ -1,0 +1,1 @@
+shopping.o: shopping.cpp
